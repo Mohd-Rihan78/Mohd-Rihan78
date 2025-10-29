@@ -1,14 +1,9 @@
-<!-- Profile Views Badge -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mohdrihan&label=Profile%20Views&color=E63946&style=flat-square" alt="Profile views" />
-</p>
-
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Mohd Rihan</h1>
 <h3 align="center">💻 Full Stack Developer | 🌐 Passionate about Web Apps | ⚡ Tailwind Enthusiast</h3>
 
 ---
-
+![](https://komarev.com/ghpvc/?Mohd-Riahn=your-github-Mohd-Riahn)
 ### 🧭 About Me  
 - 🚀 I build **modern, responsive, and scalable** web applications.  
 - 💡 Love working with **React, Next.js, Node.js, and MongoDB**.  
