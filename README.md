@@ -1,6 +1,6 @@
 <!-- Profile Views Badge -->
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mohd-Rihan78)
+  ![](https://komarev.com/ghpvc/?username=Mohd-Rihan78)
 </p>
 
 <!-- Header Section -->
