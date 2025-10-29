@@ -1,7 +1,7 @@
 
 <!-- Header Section -->
   ![](https://komarev.com/ghpvc/?username=Mohd-Rihan78)
-<h1 align="center">Hi 👋, I'm Mohd Rihan</h1>
+<h1 align="center">Hi, I'm Mohd Rihan</h1>
 <h3 align="center">💻 Full Stack Developer | 🌐 Passionate about Web Apps | ⚡ Tailwind Enthusiast</h3>
 
 ---
@@ -11,7 +11,7 @@
 - 💡 Love working with **React, Next.js, Node.js, and MongoDB**.  
 - 🎨 I craft pixel-perfect UIs with **Tailwind CSS**.  
 - 🧠 Currently exploring **JWT authentication, API design, and cloud deployment**.  
-- 📫 Reach me at: **rihan.webdev@gmail.com**  
+- 📫 Reach me at: **rihanmohd0909@gmail.com**  
 
 ---
 
@@ -51,7 +51,7 @@ End-to-end JWT authentication flow from frontend login to backend route protecti
   <a href="https://www.linkedin.com/in/mohd-rihan-sre" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rihan.webdev@gmail.com">
+  <a href="mailto:rihanmohd0909@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Mohd-Rihan78">
