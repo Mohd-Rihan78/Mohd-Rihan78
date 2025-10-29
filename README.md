@@ -1,9 +1,6 @@
-<!-- Profile Views Badge -->
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Mohd-Rihan78)
-</p>
 
 <!-- Header Section -->
+  ![](https://komarev.com/ghpvc/?username=Mohd-Rihan78)
 <h1 align="center">Hi 👋, I'm Mohd Rihan</h1>
 <h3 align="center">💻 Full Stack Developer | 🌐 Passionate about Web Apps | ⚡ Tailwind Enthusiast</h3>
 
